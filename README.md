@@ -1,2 +1,2 @@
 # first-tym
-This is my First Day of Using Git Hub.
+This is my First Git Repository.
